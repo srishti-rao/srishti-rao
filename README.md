@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Srishti Rao
 
-<!--
-**srishti-rao/srishti-rao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full Stack Developer** with a strong passion for backend development and API design. I specialize in building robust and scalable systems using technologies like **Spring Boot**, **Java**, **Python**, and **PostgreSQL**.
 
-Here are some ideas to get you started:
+Currently, I’m working part-time at **[WowFinstack](https://wowfinstack.com)**, contributing to real-world backend systems and helping build reliable fintech applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Backend:** Java, Spring Boot, Python, REST APIs  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, Gitlab, Gradle, Maven, Postman  
+
+---
+
+## 🎓 Education
+
+I’m a 3rd year B.Tech student in **Artificial Intelligence** at  
+**Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**.
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to reach out or check out my work!  
+- GitHub: [@srishti-rao](https://github.com/srishti-rao)
+- LinkedIn: [linkedin.com/in/srishti-rao-](https://linkedin.com/in/srishti-rao-)  
+- Email: srishtirao7@gmail.com
