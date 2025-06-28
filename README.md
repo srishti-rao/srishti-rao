@@ -11,7 +11,7 @@ Currently, I’m working part-time at **[WowFinstack](https://wowfinstack.com)**
 - **Backend:** Java, Spring Boot, Python, REST APIs  
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, Gitlab, Gradle, Maven, Postman  
+- **DevOps & Tools:** Docker, Kafka, Git, GitHub, Gitlab, Gradle, Maven, Postman  
 
 ---
 
