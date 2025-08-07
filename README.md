@@ -33,8 +33,8 @@ I’m a 3rd year B.Tech student in **Artificial Intelligence** at
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WowFinstack-Srishti&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WowFinstack-Srishti&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WowFinstack-Srishti&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=srishti-rao&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=srishti-rao&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti-rao&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
