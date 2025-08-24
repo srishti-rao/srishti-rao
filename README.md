@@ -6,18 +6,19 @@ Currently, I’m working part-time at **[WowFinstack](https://wowfinstack.com)**
 
 ---
 
+## 🏢 My Organization  
+
+✨ I maintain an organization where I host my projects and collaborations:  
+
+👉 [**Srishti-Organization**](https://github.com/Srishti-Organization)  
+
+---
+
 ## 🌐 Portfolio
 🚀 Check out my work here → [**Srishti | Portfolio**](https://srishti-rao.vercel.app)
 
 ---
 
-## 🏢 My Organization  
-
-✨ I also maintain an organization where I host my projects and collaborations:  
-
-👉 [**Srishti-Organization**](https://github.com/Srishti-Organization)  
-
----
 
 ## 📫 Let’s Connect
 
