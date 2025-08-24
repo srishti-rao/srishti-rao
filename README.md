@@ -7,7 +7,7 @@ Currently, I’m working part-time at **[WowFinstack](https://wowfinstack.com)**
 ---
 
 ## 🌐 Portfolio
-🚀 Check out my work here → [**srishti-rao.vercel.app**](https://srishti-rao.vercel.app)
+🚀 Check out my work here → [**Srishti | Portfolio**](https://srishti-rao.vercel.app)
 
 ---
 
