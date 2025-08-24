@@ -11,11 +11,11 @@ Currently, I’m working part-time at **[WowFinstack](https://wowfinstack.com)**
 
 ---
 
-## 🏢 My Organization  
+## 🏢 My Main Account  
 
-✨ I also maintain an organization where I host my projects and collaborations:  
+✨ Here is my main account:  
 
-👉 [**Srishti-Organization**](https://github.com/Srishti-Organization)  
+👉 [**Srishti Rao**](https://github.com/srishti-rao)  
 
 ---
 
